@@ -22,8 +22,7 @@ public class MainActivity extends Activity {
 			getFragmentManager().beginTransaction()
 					.add(R.id.container, new PlaceholderFragment()).commit();
 		}
-		System.out.println("123");
-		//fjsdfjlsdfjdlskfjsdlfjsdljflk
+		//发动机是浪费就是的浪费就是的
 	}
 
 	@Override
