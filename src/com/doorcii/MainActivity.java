@@ -22,7 +22,12 @@ public class MainActivity extends Activity {
 			getFragmentManager().beginTransaction()
 					.add(R.id.container, new PlaceholderFragment()).commit();
 		}
+<<<<<<< HEAD
 		System.out.println("1235678");
+=======
+		System.out.println("123");
+		//fjsdfjlsdfjdlskfjsdlfjsdljflk
+>>>>>>> 2014_4_27
 	}
 
 	@Override
