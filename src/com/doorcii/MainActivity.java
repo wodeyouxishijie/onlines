@@ -25,6 +25,8 @@ public class MainActivity extends Activity {
 					.add(R.id.container, new PlaceholderFragment()).commit();
 		}
 		System.out.println(12344);
+		System.out.println(12344);
+		System.out.println(12344);
 		//发动机是浪费就是的浪费就是的
 	}
 	
